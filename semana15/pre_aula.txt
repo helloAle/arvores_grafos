@@ -1,0 +1,7 @@
+As árvores são estruturas de dados não lineares compostas por nós, em que cada nó pode ter zero ou mais nós filhos. Os nós estão associados ao seu nó pai, exceto o nó raiz. As árvores binárias são um tipo específico de árvore em que cada nó pode ter no máximo dois nós filhos: um à esquerda e outro à direita. Elas são amplamente utilizadas para representar expressões matemáticas, árvores de busca binária e estruturas de dados balanceadas.
+
+Dentre as árvores binárias, destacam-se as árvores binárias de busca, nas quais os elementos estão organizados de forma ordenada. Cada nó possui um valor único, e os nós à esquerda contêm chaves menores, enquanto os nós à direita contêm chaves maiores. Essa propriedade permite buscas e inserções eficientes na estrutura, com complexidade logarítmica.
+
+As árvores binárias de busca são amplamente utilizadas em algoritmos de busca e classificação, como a árvore AVL e a árvore rubro-negra, que garantem um balanceamento adequado para otimizar o desempenho das operações.
+
+Em suma, as árvores são estruturas de dados versáteis, e as árvores binárias, especialmente as árvores binárias de busca, desempenham um papel crucial em muitas aplicações de armazenamento e busca de dados.
